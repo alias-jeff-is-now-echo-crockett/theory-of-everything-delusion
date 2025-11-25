@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup as bs
+
 
 def embed_message(target_message, larger_message):
     """
